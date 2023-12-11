@@ -25,3 +25,5 @@ Swift나 iOS 개발 관련 공부를 하며 노션 등에 정리한 내용을 �
 - [MainActor](https://www.notion.so/MainActor-7224cec9f30a43c09f4075950ea89e3b?pvs=4)
 
 
+## Etc
+- [코드리뷰 시 신경쓸만한 내용들](https://www.notion.so/4561d5d5bd0c4e6694d5c171413d33ae?v=61951c1dfdc24c529e4e9472190015ca&pvs=4)
