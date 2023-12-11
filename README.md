@@ -5,6 +5,8 @@ Swift나 iOS 개발 관련 공부를 하며 노션 등에 정리한 내용을 �
 - [MVC 패턴](https://www.notion.so/MVC-e005beeba7054d95955710b17fc61ed7?pvs=4)
 - [MVVM 패턴](https://www.notion.so/MVVM-88bc3d8a1019468aa2486b0aad28a3c4?pvs=4)
 - [📦 Swift Package](https://www.notion.so/Swift-Package-3ee1fa2bda5142d8a0b0b206b58b939f?pvs=4)
+- [유닛 테스트(Unit Test)](https://www.notion.so/Unit-Test-294176bb56a743ddad2530c4253b2ae4?pvs=4)
+- [UI 테스트(UI Test)](https://www.notion.so/UI-UI-Test-01b3981abc6c49bba1215dcac36bff72?pvs=4)
 
 
 
