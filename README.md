@@ -25,7 +25,3 @@ Swift나 iOS 개발 관련 공부를 하며 노션 등에 정리한 내용을 �
 - [async&await / Task / Sendable](https://www.notion.so/async-await-Task-Sendable-59f7659651f44df8bb2f1ac22c38bf46?pvs=4)
 - [Actor](https://www.notion.so/Actor-18f0390185b945c48835ef0c032666b3?pvs=4)
 - [MainActor](https://www.notion.so/MainActor-7224cec9f30a43c09f4075950ea89e3b?pvs=4)
-
-
-## Etc
-- [코드리뷰 시 신경쓸만한 내용들](https://www.notion.so/4561d5d5bd0c4e6694d5c171413d33ae?v=61951c1dfdc24c529e4e9472190015ca&pvs=4)
