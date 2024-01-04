@@ -1,5 +1,5 @@
 # Rei-iOS
-Swift나 iOS 개발 관련 공부를 하며 노션 등에 정리한 내용을 정리했습니다.
+Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니다.
 
 ## **📱 iOS Development**
 - [MVC 패턴](https://www.notion.so/MVC-e005beeba7054d95955710b17fc61ed7?pvs=4)
