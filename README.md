@@ -1,4 +1,4 @@
-# Rei-iOS
+![image](https://github.com/kybeen/Rei-iOS/assets/89764127/b6ab33c3-08c7-482e-a3ee-7f156d47f8df)# Rei-iOS
 Swift나 iOS 개발 관련 공부를 하며 노션 등에 정리한 내용을 정리했습니다.
 
 ## **📱 iOS Development**
@@ -9,6 +9,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션 등에 정리한 내용을 �
 - [UI 테스트(UI Test)](https://www.notion.so/UI-UI-Test-01b3981abc6c49bba1215dcac36bff72?pvs=4)
 - [Xcode 커스텀 파일 템플릿 만들기](https://www.notion.so/Xcode-4efb8e8a0d3847e2bc8d68dab1037152?pvs=4)
 - [반응형 프로그래밍(Reactive Programming)](https://www.notion.so/Reactive-Programming-32676c8677fe4113b87256153f66e8e7?pvs=4)
+- [RxSwift](https://www.notion.so/Observable-Observer-Subscribe-64ef8b4f154c442a9c7d081f72bfbab2?pvs=4)
 
 
 
