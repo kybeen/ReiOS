@@ -1,4 +1,4 @@
-![image](https://github.com/kybeen/Rei-iOS/assets/89764127/b6ab33c3-08c7-482e-a3ee-7f156d47f8df)# Rei-iOS
+# Rei-iOS
 Swift나 iOS 개발 관련 공부를 하며 노션 등에 정리한 내용을 정리했습니다.
 
 ## **📱 iOS Development**
