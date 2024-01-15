@@ -13,6 +13,8 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [Firebase Realtime Database 사용하기](https://healthy-degree-cc2.notion.site/Firebase-Realtime-Database-0ca34927133d4c279bee55cedb1c77d1?pvs=4)
 - [Mail 앱의 이메일 작성 폼 띄우기](https://healthy-degree-cc2.notion.site/Mail-ec0549cc8e4c42f6aa34445e11d24dcf?pvs=4)
 - [키보드 올라가면 UI 요소도 같이 올려주기](https://healthy-degree-cc2.notion.site/UI-d5c9e719e61943d2a5172a93dc419018?pvs=4)
+- [커스텀 셀의 재사용 식별자 관리하기](https://healthy-degree-cc2.notion.site/f1f39382c4d74045aca3cfea8422beed?pvs=4)
+- [Blur/점선 효과 넣어주기](https://healthy-degree-cc2.notion.site/Blur-aeb4d6f5fd374180908f94df6452eea2?pvs=4)
 
 
 
