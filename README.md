@@ -19,7 +19,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 
 
 
-## **🍏Apple Resources**
+## **🍏 Apple Resources**
 - [🛌 Screen Time](https://www.notion.so/Screen-Tim-837e1ccfd14949eb9f441202b670d61b?pvs=4)
 - [🎾 Core Motion](https://www.notion.so/Core-Motion-375138f9b1a64eadbf38b1928d6816a5?pvs=4)
 - [⌚️ Watch Connectivity](https://www.notion.so/Watch-Connectivity-8ae783bcae7949ccb410bf0823d86482?pvs=4)
@@ -34,3 +34,8 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [async&await / Task / Sendable](https://www.notion.so/async-await-Task-Sendable-59f7659651f44df8bb2f1ac22c38bf46?pvs=4)
 - [Actor](https://www.notion.so/Actor-18f0390185b945c48835ef0c032666b3?pvs=4)
 - [MainActor](https://www.notion.so/MainActor-7224cec9f30a43c09f4075950ea89e3b?pvs=4)
+
+
+
+## **📐 SnapKit**
+- [updateConstraints VS remakeConstraints 의 차이](https://healthy-degree-cc2.notion.site/SnapKit-updateConstraints-VS-remakeConstraints-d3c34fd990d144c2987983265f536e0a?pvs=4)
