@@ -8,9 +8,6 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [유닛 테스트(Unit Test)](https://www.notion.so/Unit-Test-294176bb56a743ddad2530c4253b2ae4?pvs=4)
 - [UI 테스트(UI Test)](https://www.notion.so/UI-UI-Test-01b3981abc6c49bba1215dcac36bff72?pvs=4)
 - [Xcode 커스텀 파일 템플릿 만들기](https://www.notion.so/Xcode-4efb8e8a0d3847e2bc8d68dab1037152?pvs=4)
-- [반응형 프로그래밍(Reactive Programming)](https://www.notion.so/Reactive-Programming-32676c8677fe4113b87256153f66e8e7?pvs=4)
-- [RxSwift](https://www.notion.so/Observable-Observer-Subscribe-64ef8b4f154c442a9c7d081f72bfbab2?pvs=4)
-- [Firebase Realtime Database 사용하기](https://healthy-degree-cc2.notion.site/Firebase-Realtime-Database-0ca34927133d4c279bee55cedb1c77d1?pvs=4)
 - [Mail 앱의 이메일 작성 폼 띄우기](https://healthy-degree-cc2.notion.site/Mail-ec0549cc8e4c42f6aa34445e11d24dcf?pvs=4)
 - [키보드 올라가면 UI 요소도 같이 올려주기](https://healthy-degree-cc2.notion.site/UI-d5c9e719e61943d2a5172a93dc419018?pvs=4)
 - [커스텀 셀의 재사용 식별자 관리하기](https://healthy-degree-cc2.notion.site/f1f39382c4d74045aca3cfea8422beed?pvs=4)
@@ -39,3 +36,15 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 
 ## **📐 SnapKit**
 - [updateConstraints VS remakeConstraints 의 차이](https://healthy-degree-cc2.notion.site/SnapKit-updateConstraints-VS-remakeConstraints-d3c34fd990d144c2987983265f536e0a?pvs=4)
+
+
+
+## **🕯️ Firebase**
+- [Firebase Realtime Database 사용하기](https://healthy-degree-cc2.notion.site/Firebase-Realtime-Database-0ca34927133d4c279bee55cedb1c77d1?pvs=4)
+- [Firebase Storage 사용하기](https://healthy-degree-cc2.notion.site/Firebase-Storage-6201fbdcd47f4fa9830d7dfb105a0f81?pvs=4)
+
+
+
+## **🍤 RxSwift**
+- [반응형 프로그래밍(Reactive Programming)](https://www.notion.so/Reactive-Programming-32676c8677fe4113b87256153f66e8e7?pvs=4)
+- [RxSwift](https://www.notion.so/Observable-Observer-Subscribe-64ef8b4f154c442a9c7d081f72bfbab2?pvs=4)
