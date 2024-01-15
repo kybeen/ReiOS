@@ -10,6 +10,8 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [Xcode 커스텀 파일 템플릿 만들기](https://www.notion.so/Xcode-4efb8e8a0d3847e2bc8d68dab1037152?pvs=4)
 - [반응형 프로그래밍(Reactive Programming)](https://www.notion.so/Reactive-Programming-32676c8677fe4113b87256153f66e8e7?pvs=4)
 - [RxSwift](https://www.notion.so/Observable-Observer-Subscribe-64ef8b4f154c442a9c7d081f72bfbab2?pvs=4)
+- [Firebase Realtime Database 사용하기](https://healthy-degree-cc2.notion.site/Firebase-Realtime-Database-0ca34927133d4c279bee55cedb1c77d1?pvs=4)
+- [Mail 앱의 이메일 작성 폼 띄우기](https://healthy-degree-cc2.notion.site/Mail-ec0549cc8e4c42f6aa34445e11d24dcf?pvs=4)
 
 
 
