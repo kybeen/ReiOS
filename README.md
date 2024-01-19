@@ -1,4 +1,4 @@
-# Rei-iOS
+# ReiOS
 Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니다.
 
 ## **📱 iOS Development**
