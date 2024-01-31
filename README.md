@@ -7,8 +7,6 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [📦 Swift Package](https://www.notion.so/Swift-Package-3ee1fa2bda5142d8a0b0b206b58b939f?pvs=4)
 - [🥥 CocoaPods(코코아팟)](https://healthy-degree-cc2.notion.site/CocoaPods-033e1d69a23c43038cae8e7645f8a6e7?pvs=4)
 - [CocoaPods 🆚 SPM](https://healthy-degree-cc2.notion.site/CocoaPods-VS-SPM-dfa4db8a87484198af5186292dfdf712?pvs=4)
-- [유닛 테스트(Unit Test)](https://www.notion.so/Unit-Test-294176bb56a743ddad2530c4253b2ae4?pvs=4)
-- [UI 테스트(UI Test)](https://www.notion.so/UI-UI-Test-01b3981abc6c49bba1215dcac36bff72?pvs=4)
 - [Xcode 커스텀 파일 템플릿 만들기](https://www.notion.so/Xcode-4efb8e8a0d3847e2bc8d68dab1037152?pvs=4)
 - [Mail 앱의 이메일 작성 폼 띄우기](https://healthy-degree-cc2.notion.site/Mail-ec0549cc8e4c42f6aa34445e11d24dcf?pvs=4)
 - [키보드 올라가면 UI 요소도 같이 올려주기](https://healthy-degree-cc2.notion.site/UI-d5c9e719e61943d2a5172a93dc419018?pvs=4)
@@ -50,3 +48,9 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 ## **🍤 RxSwift**
 - [반응형 프로그래밍(Reactive Programming)](https://www.notion.so/Reactive-Programming-32676c8677fe4113b87256153f66e8e7?pvs=4)
 - [RxSwift](https://www.notion.so/Observable-Observer-Subscribe-64ef8b4f154c442a9c7d081f72bfbab2?pvs=4)
+
+
+
+## **🧪 TDD**
+- [유닛 테스트(Unit Test)](https://healthy-degree-cc2.notion.site/Unit-Test-fdc8a6c3956243e09e15c3b10162b25f?pvs=4)
+- [UI 테스트(UI Test)](https://healthy-degree-cc2.notion.site/UI-UI-Test-fc5342c8ceb3451f9c0d719058834b21?pvs=4)
