@@ -13,6 +13,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [커스텀 셀의 재사용 식별자 관리하기](https://healthy-degree-cc2.notion.site/f1f39382c4d74045aca3cfea8422beed?pvs=4)
 - [Blur/점선 효과 넣어주기](https://healthy-degree-cc2.notion.site/Blur-aeb4d6f5fd374180908f94df6452eea2?pvs=4)
 - [폰트가 적용된 SF Symbol 버튼 만들기](https://healthy-degree-cc2.notion.site/SF-Symbol-624e5f6cc86540a59c0a44619eed0e05?pvs=4)
+- [CSV 데이터 불러와서 처리하기](https://healthy-degree-cc2.notion.site/CSV-13acd48238ef405ea7c51d76c870c868?pvs=4)
 
 
 
