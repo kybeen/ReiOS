@@ -1,19 +1,12 @@
 # ReiOS
 Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니다.
 
-## **📱 iOS Development**
+## **📱 iOS**
 - [MVC 패턴](https://www.notion.so/MVC-e005beeba7054d95955710b17fc61ed7?pvs=4)
 - [MVVM 패턴](https://www.notion.so/MVVM-88bc3d8a1019468aa2486b0aad28a3c4?pvs=4)
 - [📦 Swift Package](https://www.notion.so/Swift-Package-3ee1fa2bda5142d8a0b0b206b58b939f?pvs=4)
 - [🥥 CocoaPods(코코아팟)](https://healthy-degree-cc2.notion.site/CocoaPods-033e1d69a23c43038cae8e7645f8a6e7?pvs=4)
 - [CocoaPods 🆚 SPM](https://healthy-degree-cc2.notion.site/CocoaPods-VS-SPM-dfa4db8a87484198af5186292dfdf712?pvs=4)
-- [Xcode 커스텀 파일 템플릿 만들기](https://www.notion.so/Xcode-4efb8e8a0d3847e2bc8d68dab1037152?pvs=4)
-- [Mail 앱의 이메일 작성 폼 띄우기](https://healthy-degree-cc2.notion.site/Mail-ec0549cc8e4c42f6aa34445e11d24dcf?pvs=4)
-- [키보드 올라가면 UI 요소도 같이 올려주기](https://healthy-degree-cc2.notion.site/UI-d5c9e719e61943d2a5172a93dc419018?pvs=4)
-- [커스텀 셀의 재사용 식별자 관리하기](https://healthy-degree-cc2.notion.site/f1f39382c4d74045aca3cfea8422beed?pvs=4)
-- [Blur/점선 효과 넣어주기](https://healthy-degree-cc2.notion.site/Blur-aeb4d6f5fd374180908f94df6452eea2?pvs=4)
-- [폰트가 적용된 SF Symbol 버튼 만들기](https://healthy-degree-cc2.notion.site/SF-Symbol-624e5f6cc86540a59c0a44619eed0e05?pvs=4)
-- [CSV 데이터 불러와서 처리하기](https://healthy-degree-cc2.notion.site/CSV-13acd48238ef405ea7c51d76c870c868?pvs=4)
 - [Static/Dynamic & Embed/Do Not Embed](https://healthy-degree-cc2.notion.site/Embed-or-Do-Not-Embed-4320413a8981457884b77e53ae5599c6?pvs=4)
 
 
@@ -56,3 +49,13 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 ## **🧪 TDD**
 - [유닛 테스트(Unit Test)](https://healthy-degree-cc2.notion.site/Unit-Test-fdc8a6c3956243e09e15c3b10162b25f?pvs=4)
 - [UI 테스트(UI Test)](https://healthy-degree-cc2.notion.site/UI-UI-Test-fc5342c8ceb3451f9c0d719058834b21?pvs=4)
+
+
+## **📌 ETC **
+- [Xcode 커스텀 파일 템플릿 만들기](https://www.notion.so/Xcode-4efb8e8a0d3847e2bc8d68dab1037152?pvs=4)
+- [Mail 앱의 이메일 작성 폼 띄우기](https://healthy-degree-cc2.notion.site/Mail-ec0549cc8e4c42f6aa34445e11d24dcf?pvs=4)
+- [키보드 올라가면 UI 요소도 같이 올려주기](https://healthy-degree-cc2.notion.site/UI-d5c9e719e61943d2a5172a93dc419018?pvs=4)
+- [커스텀 셀의 재사용 식별자 관리하기](https://healthy-degree-cc2.notion.site/f1f39382c4d74045aca3cfea8422beed?pvs=4)
+- [Blur/점선 효과 넣어주기](https://healthy-degree-cc2.notion.site/Blur-aeb4d6f5fd374180908f94df6452eea2?pvs=4)
+- [폰트가 적용된 SF Symbol 버튼 만들기](https://healthy-degree-cc2.notion.site/SF-Symbol-624e5f6cc86540a59c0a44619eed0e05?pvs=4)
+- [CSV 데이터 불러와서 처리하기](https://healthy-degree-cc2.notion.site/CSV-13acd48238ef405ea7c51d76c870c868?pvs=4)
