@@ -14,6 +14,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [Blur/점선 효과 넣어주기](https://healthy-degree-cc2.notion.site/Blur-aeb4d6f5fd374180908f94df6452eea2?pvs=4)
 - [폰트가 적용된 SF Symbol 버튼 만들기](https://healthy-degree-cc2.notion.site/SF-Symbol-624e5f6cc86540a59c0a44619eed0e05?pvs=4)
 - [CSV 데이터 불러와서 처리하기](https://healthy-degree-cc2.notion.site/CSV-13acd48238ef405ea7c51d76c870c868?pvs=4)
+- [Static/Dynamic & Embed/Do Not Embed](https://healthy-degree-cc2.notion.site/Embed-or-Do-Not-Embed-4320413a8981457884b77e53ae5599c6?pvs=4)
 
 
 
