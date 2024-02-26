@@ -46,7 +46,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 
 
 ## **🔩 모듈화**
-- [Tuist](https://healthy-degree-cc2.notion.site/Tuist-Tutorials-7449a84064cb4510a7e508fadd575f75?pvs=4)
+- [Tuist Tutorials](https://healthy-degree-cc2.notion.site/Tuist-Tutorials-7449a84064cb4510a7e508fadd575f75?pvs=4)
 
 
 ## **🧪 TDD**
