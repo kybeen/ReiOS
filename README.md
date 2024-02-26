@@ -45,6 +45,9 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [RxSwift](https://www.notion.so/Observable-Observer-Subscribe-64ef8b4f154c442a9c7d081f72bfbab2?pvs=4)
 
 
+## **🔩 모듈화**
+- [Tuist](https://healthy-degree-cc2.notion.site/Tuist-Tutorials-7449a84064cb4510a7e508fadd575f75?pvs=4)
+
 
 ## **🧪 TDD**
 - [유닛 테스트(Unit Test)](https://healthy-degree-cc2.notion.site/Unit-Test-fdc8a6c3956243e09e15c3b10162b25f?pvs=4)
