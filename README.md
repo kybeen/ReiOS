@@ -63,3 +63,4 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [폰트가 적용된 SF Symbol 버튼 만들기](https://healthy-degree-cc2.notion.site/SF-Symbol-624e5f6cc86540a59c0a44619eed0e05?pvs=4)
 - [CSV 데이터 불러와서 처리하기](https://healthy-degree-cc2.notion.site/CSV-13acd48238ef405ea7c51d76c870c868?pvs=4)
 - [SwiftLint 적용하기](https://healthy-degree-cc2.notion.site/SwiftLint-c83639dcaecb4a27b400ca0430ed8e69?pvs=4)
+- [Xcode custom script 사용하기](https://healthy-degree-cc2.notion.site/Xcode-custom-script-2c21e45858f9454797428e46111eff78?pvs=4)
