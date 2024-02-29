@@ -4,11 +4,6 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 ## **📱 iOS**
 - [MVC 패턴](https://www.notion.so/MVC-e005beeba7054d95955710b17fc61ed7?pvs=4)
 - [MVVM 패턴](https://www.notion.so/MVVM-88bc3d8a1019468aa2486b0aad28a3c4?pvs=4)
-- [Swift Package](https://www.notion.so/Swift-Package-3ee1fa2bda5142d8a0b0b206b58b939f?pvs=4)
-- [CocoaPods(코코아팟)](https://healthy-degree-cc2.notion.site/CocoaPods-033e1d69a23c43038cae8e7645f8a6e7?pvs=4)
-- [CocoaPods 🆚 SPM](https://healthy-degree-cc2.notion.site/CocoaPods-VS-SPM-dfa4db8a87484198af5186292dfdf712?pvs=4)
-- [Library와 Framework](https://healthy-degree-cc2.notion.site/Library-Framework-b9bf28bce1e54270b4722c3c4d450853?pvs=4)
-- [Static/Dynamic & Embed/Do Not Embed](https://healthy-degree-cc2.notion.site/Embed-or-Do-Not-Embed-4320413a8981457884b77e53ae5599c6?pvs=4)
 
 
 
@@ -47,6 +42,11 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 
 
 ## **🔩 모듈화**
+- [Swift Package](https://www.notion.so/Swift-Package-3ee1fa2bda5142d8a0b0b206b58b939f?pvs=4)
+- [CocoaPods(코코아팟)](https://healthy-degree-cc2.notion.site/CocoaPods-033e1d69a23c43038cae8e7645f8a6e7?pvs=4)
+- [CocoaPods 🆚 SPM](https://healthy-degree-cc2.notion.site/CocoaPods-VS-SPM-dfa4db8a87484198af5186292dfdf712?pvs=4)
+- [Library와 Framework](https://healthy-degree-cc2.notion.site/Library-Framework-b9bf28bce1e54270b4722c3c4d450853?pvs=4)
+- [Static/Dynamic & Embed/Do Not Embed](https://healthy-degree-cc2.notion.site/Embed-or-Do-Not-Embed-4320413a8981457884b77e53ae5599c6?pvs=4)
 - [Tuist Tutorials](https://healthy-degree-cc2.notion.site/Tuist-Tutorials-7449a84064cb4510a7e508fadd575f75?pvs=4)
 
 
