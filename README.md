@@ -7,6 +7,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [Swift Package](https://www.notion.so/Swift-Package-3ee1fa2bda5142d8a0b0b206b58b939f?pvs=4)
 - [CocoaPods(코코아팟)](https://healthy-degree-cc2.notion.site/CocoaPods-033e1d69a23c43038cae8e7645f8a6e7?pvs=4)
 - [CocoaPods 🆚 SPM](https://healthy-degree-cc2.notion.site/CocoaPods-VS-SPM-dfa4db8a87484198af5186292dfdf712?pvs=4)
+- [Library와 Framework](https://healthy-degree-cc2.notion.site/Library-Framework-b9bf28bce1e54270b4722c3c4d450853?pvs=4)
 - [Static/Dynamic & Embed/Do Not Embed](https://healthy-degree-cc2.notion.site/Embed-or-Do-Not-Embed-4320413a8981457884b77e53ae5599c6?pvs=4)
 
 
