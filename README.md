@@ -47,9 +47,13 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [CocoaPods 🆚 SPM](https://healthy-degree-cc2.notion.site/CocoaPods-VS-SPM-dfa4db8a87484198af5186292dfdf712?pvs=4)
 - [Library와 Framework](https://healthy-degree-cc2.notion.site/Library-Framework-b9bf28bce1e54270b4722c3c4d450853?pvs=4)
 - [Static/Dynamic & Embed/Do Not Embed](https://healthy-degree-cc2.notion.site/Embed-or-Do-Not-Embed-4320413a8981457884b77e53ae5599c6?pvs=4)
-- [Tuist Tutorials](https://healthy-degree-cc2.notion.site/Tuist-Tutorials-7449a84064cb4510a7e508fadd575f75?pvs=4)
-- [Tuist로 외부 의존성 관리하기](https://healthy-degree-cc2.notion.site/Tuist-280d72e2668b4f3c802bc482b1080d15?pvs=4)
-- [extension으로 Tuist로 외부 의존성 편리하게 관리하기](https://www.notion.so/extension-2dba74cb11be484b95ea9c86f109701c?pvs=4)
+
+- **Tuist**
+  - [Tuist Tutorials](https://healthy-degree-cc2.notion.site/Tuist-Tutorials-7449a84064cb4510a7e508fadd575f75?pvs=4)
+  - [Tuist로 외부 의존성 관리하기](https://healthy-degree-cc2.notion.site/Tuist-280d72e2668b4f3c802bc482b1080d15?pvs=4)
+  - [extension으로 외부 의존성 편리하게 관리하기](https://www.notion.so/extension-2dba74cb11be484b95ea9c86f109701c?pvs=4)
+  - [Target에 Run Script 추가하기](https://healthy-degree-cc2.notion.site/Target-Run-Script-311669c4352d46a5937205eb13b6c8a1?pvs=4)
+  - [Plugin 사용하기](https://healthy-degree-cc2.notion.site/Tuist-Plugin-d64d5220ee4f4872b281214ed635680d?pvs=4)
 
 ## **🧪 TDD**
 - [유닛 테스트(Unit Test)](https://healthy-degree-cc2.notion.site/Unit-Test-fdc8a6c3956243e09e15c3b10162b25f?pvs=4)
