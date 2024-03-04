@@ -54,6 +54,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
   - [extension으로 외부 의존성 편리하게 관리하기](https://www.notion.so/extension-2dba74cb11be484b95ea9c86f109701c?pvs=4)
   - [Target에 Run Script 추가하기](https://healthy-degree-cc2.notion.site/Target-Run-Script-311669c4352d46a5937205eb13b6c8a1?pvs=4)
   - [Plugin 사용하기](https://healthy-degree-cc2.notion.site/Tuist-Plugin-d64d5220ee4f4872b281214ed635680d?pvs=4)
+  - [Configuration 설정하기 + XCConfig](https://healthy-degree-cc2.notion.site/Configuration-XCConfig-fd2af0a010394f5db4d001fe7f972578?pvs=4)
 
 ## **🧪 TDD**
 - [유닛 테스트(Unit Test)](https://healthy-degree-cc2.notion.site/Unit-Test-fdc8a6c3956243e09e15c3b10162b25f?pvs=4)
