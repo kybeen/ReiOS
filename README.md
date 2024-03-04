@@ -73,3 +73,4 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [Xcode Build System 이해하기](https://healthy-degree-cc2.notion.site/Xcode-Build-System-cb620e8700654d8fa8d381777e218c4e?pvs=4)
 - [(공식문서 번역) Configuring the build settings of a target](https://healthy-degree-cc2.notion.site/Configuring-the-build-settings-of-a-target-1c5e715896ab428a8fd99244a68c6ab8?pvs=4)
 - [(공식문서 번역) XCConfig - Adding a build configuration file to your project](https://healthy-degree-cc2.notion.site/XCConfig-Adding-a-build-configuration-file-to-your-project-e4fa2448abd648bdbcd7ddf57340cf94?pvs=4)
+- [(공식문서 번역) Customizing the build schemes for a project](https://healthy-degree-cc2.notion.site/Xcode-Scheme-a6c31cba53e043ac8ae3da87e9290108?pvs=4)
