@@ -2,6 +2,7 @@
 Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니다.
 
 ## **📱 iOS**
+- [애플 공식 문서 SwiftUI Tutorial 따라해보기](https://healthy-degree-cc2.notion.site/SwiftUI-11b7c3d0be1b404db0a0ec83355d04f6?pvs=4)
 - [소프트웨어 아키텍처 / 디자인 패턴의 개념과 차이점](https://healthy-degree-cc2.notion.site/89bd6a1679f74f64835e91f02748a28f?pvs=4)
 - [MVC 패턴](https://www.notion.so/MVC-e005beeba7054d95955710b17fc61ed7?pvs=4)
 - [MVVM 패턴](https://www.notion.so/MVVM-88bc3d8a1019468aa2486b0aad28a3c4?pvs=4)
