@@ -1,7 +1,7 @@
 # ReiOS
 Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니다.
 
-## **Swift**
+## **🕊️ Swift**
 - [Swift 문법 공부](https://github.com/kybeen/Swift-Study)
 
 
@@ -48,6 +48,13 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 
 ## **📱 UIKit**
 - [[꼼꼼한 재은씨의 Swift:기본편] 내용 정리](https://healthy-degree-cc2.notion.site/Swift-81576076c14140a0b26da19a420513b9?pvs=4)
+- [커스텀 셀의 재사용 식별자 관리하기](https://healthy-degree-cc2.notion.site/f1f39382c4d74045aca3cfea8422beed?pvs=4)
+- [Blur/점선 효과 넣어주기](https://healthy-degree-cc2.notion.site/Blur-aeb4d6f5fd374180908f94df6452eea2?pvs=4)
+- [폰트가 적용된 SF Symbol 버튼 만들기](https://healthy-degree-cc2.notion.site/SF-Symbol-624e5f6cc86540a59c0a44619eed0e05?pvs=4)
+- [키보드 올라가면 UI 요소도 같이 올려주기](https://healthy-degree-cc2.notion.site/UI-d5c9e719e61943d2a5172a93dc419018?pvs=4)
+- [UITableViewCell 내부의 버튼에 이벤트 주기](https://healthy-degree-cc2.notion.site/UITableViewCell-1d4d9b3eabad4e518d45c7f530395a9d?pvs=4)
+- [removeArrangedSubview() VS removeFromSuperview()](https://healthy-degree-cc2.notion.site/removeArrangedSubview-_-VS-removeFromSuperview-59d4e3ebd7cb47b69a22cc49788a76df?pvs=4)
+- [Delegate를 사용하여 ViewController 간 데이터 전달하기](https://healthy-degree-cc2.notion.site/Delegate-VC2-VC1-4450359d5f59487a8d19f0fea6f9491b?pvs=4)
 
 
 
@@ -94,8 +101,6 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 
 ## **💬 ETC**
 - [Mail 앱의 이메일 작성 폼 띄우기](https://healthy-degree-cc2.notion.site/Mail-ec0549cc8e4c42f6aa34445e11d24dcf?pvs=4)
-- [키보드 올라가면 UI 요소도 같이 올려주기](https://healthy-degree-cc2.notion.site/UI-d5c9e719e61943d2a5172a93dc419018?pvs=4)
-- [커스텀 셀의 재사용 식별자 관리하기](https://healthy-degree-cc2.notion.site/f1f39382c4d74045aca3cfea8422beed?pvs=4)
-- [Blur/점선 효과 넣어주기](https://healthy-degree-cc2.notion.site/Blur-aeb4d6f5fd374180908f94df6452eea2?pvs=4)
-- [폰트가 적용된 SF Symbol 버튼 만들기](https://healthy-degree-cc2.notion.site/SF-Symbol-624e5f6cc86540a59c0a44619eed0e05?pvs=4)
 - [CSV 데이터 불러와서 처리하기](https://healthy-degree-cc2.notion.site/CSV-13acd48238ef405ea7c51d76c870c868?pvs=4)
+- [iOS App HTTP 접근 허용하기](https://healthy-degree-cc2.notion.site/iOS-App-HTTP-ef8c6f31145749e6992739f5b8b658c5?pvs=4x)
+- [Xcode 알고리즘 환경 세팅](https://healthy-degree-cc2.notion.site/Xcode-37c7cf0243f246baa4e136b719895c17?pvs=4)
