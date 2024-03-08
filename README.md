@@ -38,6 +38,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
   - [Target에 Run Script 추가하기](https://healthy-degree-cc2.notion.site/Target-Run-Script-311669c4352d46a5937205eb13b6c8a1?pvs=4)
   - [Plugin 사용하기](https://healthy-degree-cc2.notion.site/Tuist-Plugin-d64d5220ee4f4872b281214ed635680d?pvs=4)
   - [Configuration 설정하기 + XCConfig](https://healthy-degree-cc2.notion.site/Configuration-XCConfig-fd2af0a010394f5db4d001fe7f972578?pvs=4)
+  - [Scaffold를 통해 효율적으로 모듈 생성하기](https://healthy-degree-cc2.notion.site/Scaffold-Template-d8612c476d3743d9ad2d0f0468ad6654?pvs=4)
 
 
 
