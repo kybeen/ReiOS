@@ -3,6 +3,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 
 ## **🕊️ Swift**
 - [Swift 문법 공부](https://github.com/kybeen/Swift-Study)
+- [CustomStringConvertible 프로토콜](https://kybeen.tistory.com/142)
 
 
 
