@@ -61,12 +61,12 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 
 
 ## **🍏 Apple's**
-- [🛌 Screen Time](https://www.notion.so/Screen-Tim-837e1ccfd14949eb9f441202b670d61b?pvs=4)
-- [🎾 Core Motion](https://www.notion.so/Core-Motion-375138f9b1a64eadbf38b1928d6816a5?pvs=4)
-- [⌚️ Watch Connectivity](https://www.notion.so/Watch-Connectivity-8ae783bcae7949ccb410bf0823d86482?pvs=4)
-- [🔐 Sign in with Apple (애플 로그인)](https://www.notion.so/Sign-In-with-Apple-8e85f95a1d2f4ebeb97bc646cf2a797a?pvs=4)
-- [🔑 KeyChain](https://www.notion.so/KeyChain-a7774e3d25ab43438a1b395b18c1146b?pvs=4)
-- [💾 Cache](https://www.notion.so/Cache-bf0e00b3256247ec9dda0b172f2d0f33?pvs=4)
+- [Screen Time](https://www.notion.so/Screen-Tim-837e1ccfd14949eb9f441202b670d61b?pvs=4)
+- [Core Motion](https://www.notion.so/Core-Motion-375138f9b1a64eadbf38b1928d6816a5?pvs=4)
+- [Watch Connectivity](https://www.notion.so/Watch-Connectivity-8ae783bcae7949ccb410bf0823d86482?pvs=4), [Watch Connectivity 사용해보기](https://kybeen.tistory.com/138)
+- [Sign in with Apple (애플 로그인)](https://www.notion.so/Sign-In-with-Apple-8e85f95a1d2f4ebeb97bc646cf2a797a?pvs=4)
+- [KeyChain](https://www.notion.so/KeyChain-a7774e3d25ab43438a1b395b18c1146b?pvs=4)
+- [Cache](https://www.notion.so/Cache-bf0e00b3256247ec9dda0b172f2d0f33?pvs=4)
 
 
 
