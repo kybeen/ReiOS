@@ -107,3 +107,4 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [Xcode 알고리즘 환경 세팅](https://healthy-degree-cc2.notion.site/Xcode-37c7cf0243f246baa4e136b719895c17?pvs=4)
 - [CSV 파일 만들어서 저장하기](https://healthy-degree-cc2.notion.site/CSV-09f0acc784a548708f7f69cd18c199bc?pvs=4)
 - [Family Controls 사용 앱 배포용 아카이브 시 주의사항](https://healthy-degree-cc2.notion.site/Family-Controls-914c5f4de3dd430ea64ed35ea5779685?pvs=4)
+- [M1 맥북 + Xcode 15 환경에서 SwiftLint 적용 시 오류 처리](https://kybeen.tistory.com/143)
