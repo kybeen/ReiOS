@@ -100,6 +100,10 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [UI 테스트(UI Test)](https://healthy-degree-cc2.notion.site/UI-UI-Test-fc5342c8ceb3451f9c0d719058834b21?pvs=4)
 
 
+## **🚀 Deploy**
+- [팀 작업 시에 Bundle Identifier 하나로 공유하기](https://kybeen.tistory.com/139)
+- [Family Controls 사용 앱 배포용 아카이브 시 주의사항](https://healthy-degree-cc2.notion.site/Family-Controls-914c5f4de3dd430ea64ed35ea5779685?pvs=4)
+
 
 ## **💬 ETC**
 - [Mail 앱의 이메일 작성 폼 띄우기](https://healthy-degree-cc2.notion.site/Mail-ec0549cc8e4c42f6aa34445e11d24dcf?pvs=4)
@@ -107,6 +111,5 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [iOS App HTTP 접근 허용하기](https://healthy-degree-cc2.notion.site/iOS-App-HTTP-ef8c6f31145749e6992739f5b8b658c5?pvs=4x)
 - [Xcode 알고리즘 환경 세팅](https://healthy-degree-cc2.notion.site/Xcode-37c7cf0243f246baa4e136b719895c17?pvs=4)
 - [CSV 파일 만들어서 저장하기](https://healthy-degree-cc2.notion.site/CSV-09f0acc784a548708f7f69cd18c199bc?pvs=4)
-- [Family Controls 사용 앱 배포용 아카이브 시 주의사항](https://healthy-degree-cc2.notion.site/Family-Controls-914c5f4de3dd430ea64ed35ea5779685?pvs=4)
 - [M1 맥북 + Xcode 15 환경에서 SwiftLint 적용 시 오류 처리](https://kybeen.tistory.com/143)
 - [url의 String을 URL 객체로 변환 시 nil이 반환되는 문제](https://kybeen.tistory.com/141)
