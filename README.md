@@ -92,6 +92,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 ## **🍤 Reactive Programming**
 - [반응형 프로그래밍(Reactive Programming)](https://www.notion.so/Reactive-Programming-32676c8677fe4113b87256153f66e8e7?pvs=4)
 - [RxSwift](https://www.notion.so/Observable-Observer-Subscribe-64ef8b4f154c442a9c7d081f72bfbab2?pvs=4)
+- [RxSwift + MVVM 패턴](https://healthy-degree-cc2.notion.site/RxSwift-MVVM-850975d00321473c8531ae84db1fe4d2?pvs=4)
 
 
 
