@@ -57,7 +57,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [UITableViewCell 내부의 버튼에 이벤트 주기](https://healthy-degree-cc2.notion.site/UITableViewCell-1d4d9b3eabad4e518d45c7f530395a9d?pvs=4)
 - [removeArrangedSubview() VS removeFromSuperview()](https://healthy-degree-cc2.notion.site/removeArrangedSubview-_-VS-removeFromSuperview-59d4e3ebd7cb47b69a22cc49788a76df?pvs=4)
 - [Delegate를 사용하여 ViewController 간 데이터 전달하기](https://healthy-degree-cc2.notion.site/Delegate-VC2-VC1-4450359d5f59487a8d19f0fea6f9491b?pvs=4)
-- [AppDelegate, SceneDelegate](https://healthy-degree-cc2.notion.site/AppDelegate-SceneDelegate-087c92e2467e4849b68b17b07db62e9c?pvs=4)
+- [AppDelegate와 SceneDelegate](https://healthy-degree-cc2.notion.site/AppDelegate-SceneDelegate-087c92e2467e4849b68b17b07db62e9c?pvs=4)
 
 
 
