@@ -11,6 +11,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 - [소프트웨어 아키텍처 / 디자인 패턴의 개념과 차이점](https://healthy-degree-cc2.notion.site/89bd6a1679f74f64835e91f02748a28f?pvs=4)
 - [MVC 패턴](https://www.notion.so/MVC-e005beeba7054d95955710b17fc61ed7?pvs=4)
 - [MVVM 패턴](https://www.notion.so/MVVM-88bc3d8a1019468aa2486b0aad28a3c4?pvs=4)
+- [Dependency Injection (의존성 주입)](https://healthy-degree-cc2.notion.site/Dependency-Injection-2081edab5c404218972983baa5926c36?pvs=4)
 
 
 
