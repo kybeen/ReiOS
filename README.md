@@ -106,9 +106,10 @@ Swift나 iOS 개발 관련 공부를 하며 노션에 정리한 내용들입니�
 
 
 
-## **🧪 테스트**
+## **🧪 Testing**
 - [유닛 테스트(Unit Test)](https://healthy-degree-cc2.notion.site/Unit-Test-fdc8a6c3956243e09e15c3b10162b25f?pvs=4)
 - [UI 테스트(UI Test)](https://healthy-degree-cc2.notion.site/UI-UI-Test-fc5342c8ceb3451f9c0d719058834b21?pvs=4)
+- [외부 의존성의 응답을 테스트하기 (Core Location)](https://healthy-degree-cc2.notion.site/Core-Location-09b70ce099634b98b9ab5d203bb436cd?pvs=4)
 
 
 ## **🚀 Deploy**
