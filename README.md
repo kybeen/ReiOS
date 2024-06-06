@@ -125,3 +125,4 @@ Swift나 iOS 개발 관련 공부를 하며 노션·블로그에 정리한 내�
 - [CSV 파일 만들어서 저장하기](https://healthy-degree-cc2.notion.site/CSV-09f0acc784a548708f7f69cd18c199bc?pvs=4)
 - [M1 맥북 + Xcode 15 환경에서 SwiftLint 적용 시 오류 처리](https://kybeen.tistory.com/143)
 - [url의 String을 URL 객체로 변환 시 nil이 반환되는 문제](https://kybeen.tistory.com/141)
+- [OAuth에 대해 파이어베이스 소셜 로그인과 함께 알아보기](https://healthy-degree-cc2.notion.site/OAuth-f78314b4889e468f8d0a2f93f074bc8e?pvs=4)
