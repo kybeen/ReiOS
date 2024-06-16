@@ -105,7 +105,7 @@ Swift나 iOS 개발 관련 공부를 하며 노션·블로그에 정리한 내�
 - [Observable을 생성하는 operator들](https://healthy-degree-cc2.notion.site/Observable-16889156423d40f89245cf2447838f25?pvs=4)
 - [RxSwift + MVVM 패턴](https://healthy-degree-cc2.notion.site/RxSwift-MVVM-850975d00321473c8531ae84db1fe4d2?pvs=4)
 - [Combine 간단 정리 (RxSwift와 대응시켜보면서)](https://healthy-degree-cc2.notion.site/Combine-RxSwift-9bcb629aa6ec417ebebcc1ba12a585ad?pvs=4)
-
+- [디바운스(Debounce)와 쓰로틀링(Throttling)](https://healthy-degree-cc2.notion.site/Debounce-Throttling-1d7c30c550144313834229649769b566?pvs=4)
 
 
 ## **🧪 Testing**
