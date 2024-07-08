@@ -1,5 +1,5 @@
 # ReiOS
-Swift나 iOS 개발 관련 공부를 하며 노션·블로그에 정리한 내용들입니다.
+Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
 
 ## **🕊️ Swift**
 - [Swift 문법 공부](https://github.com/kybeen/Swift-Study)
