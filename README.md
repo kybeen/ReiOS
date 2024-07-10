@@ -82,9 +82,10 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
 - [프로세스와 스레드](https://healthy-degree-cc2.notion.site/bd49077af4cc404f9063fa440bc4b0f3?pvs=4)
 - [GCD(Grand Central Dispatch)](https://www.notion.so/GCD-Grand-Central-Dispatch-6480eb6a49ab4afd9dfea467fbd8d10d?pvs=4)
 - [async & await](https://www.notion.so/async-await-Task-Sendable-59f7659651f44df8bb2f1ac22c38bf46?pvs=4)
+- [Dispatch Group](https://healthy-degree-cc2.notion.site/Dispatch-Group-fdaa1cd6490344b88e69921d8665eda7?pvs=4)
+
 <!-- - [Actor](https://www.notion.so/Actor-18f0390185b945c48835ef0c032666b3?pvs=4)
 - [MainActor](https://www.notion.so/MainActor-7224cec9f30a43c09f4075950ea89e3b?pvs=4) -->
-- [Dispatch Group](https://healthy-degree-cc2.notion.site/Dispatch-Group-fdaa1cd6490344b88e69921d8665eda7?pvs=4)
 
 
 
