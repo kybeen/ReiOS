@@ -67,10 +67,10 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
 
 
 ## **🍏 Apple's**
-- [Screen Time](https://www.notion.so/Screen-Tim-837e1ccfd14949eb9f441202b670d61b?pvs=4)
-- [Core Motion](https://www.notion.so/Core-Motion-375138f9b1a64eadbf38b1928d6816a5?pvs=4), [Core Motion 사용해보기](https://kybeen.tistory.com/137)
-- [Watch Connectivity](https://www.notion.so/Watch-Connectivity-8ae783bcae7949ccb410bf0823d86482?pvs=4), [Watch Connectivity 사용해보기](https://kybeen.tistory.com/138)
-- [Sign in with Apple (애플 로그인)](https://www.notion.so/Sign-In-with-Apple-8e85f95a1d2f4ebeb97bc646cf2a797a?pvs=4)
+- [Screen Time](https://healthy-degree-cc2.notion.site/Screen-Time-6fda458dbf0e43f5893afc9f1641844c?pvs=4)
+- [Core Motion](https://healthy-degree-cc2.notion.site/Core-Motion-933ca69f50144643b172a7856ed23377?pvs=4), [Core Motion 사용해보기](https://kybeen.tistory.com/137)
+- [Watch Connectivity](https://healthy-degree-cc2.notion.site/Watch-Connectivity-566f2eebe55f4b9e800c308b37c2bc1b?pvs=4), [Watch Connectivity 사용해보기](https://kybeen.tistory.com/138)
+- [Sign in with Apple (애플 로그인)](https://healthy-degree-cc2.notion.site/Sign-in-with-Apple-fadcba1053994303b68119d97c90c92a?pvs=4)
 - [KeyChain](https://www.notion.so/KeyChain-a7774e3d25ab43438a1b395b18c1146b?pvs=4)
 - [Cache](https://www.notion.so/Cache-bf0e00b3256247ec9dda0b172f2d0f33?pvs=4)
 - [Core Location](https://healthy-degree-cc2.notion.site/Core-Location-7bb1d20fe30640e5903c0eb92c4ab63a?pvs=4), [Core Location 사용해보기](https://kybeen.tistory.com/145)
