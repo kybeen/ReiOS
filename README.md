@@ -96,6 +96,7 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
 ## **🕯️ Firebase**
 - [Firebase Realtime Database 사용하기](https://healthy-degree-cc2.notion.site/Firebase-Realtime-Database-0ca34927133d4c279bee55cedb1c77d1?pvs=4)
 - [Firebase Storage 사용하기](https://healthy-degree-cc2.notion.site/Firebase-Storage-6201fbdcd47f4fa9830d7dfb105a0f81?pvs=4)
+- [Firebase로 Sign in with Apple 구현하기](https://healthy-degree-cc2.notion.site/Firebase-Sign-in-with-Apple-bae434f414ba40fe87b2890eca2c46dd?pvs=4)
 - [Firestore 사용해보기](https://healthy-degree-cc2.notion.site/FireStore-93b8a26d2fd8414ea59cc863fce64653?pvs=4)
 - [Firebase Cloud Messaging (FCM)](https://healthy-degree-cc2.notion.site/Firebase-Cloud-Messaging-FCM-didReceive-046504a06dc2417fa0ec73151a30154f?pvs=4)
 
