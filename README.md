@@ -64,6 +64,7 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
 - [Delegate를 사용하여 ViewController 간 데이터 전달하기](https://healthy-degree-cc2.notion.site/Delegate-VC2-VC1-4450359d5f59487a8d19f0fea6f9491b?pvs=4)
 - [AppDelegate와 SceneDelegate](https://healthy-degree-cc2.notion.site/AppDelegate-SceneDelegate-087c92e2467e4849b68b17b07db62e9c?pvs=4)
 - [UIKit에서의 view 라이프사이클](https://healthy-degree-cc2.notion.site/UIKit-view-c6d5ba011977412b959b83ce156a50b9?pvs=4)
+- [setNeedsLayout() vs layoutIfNeeded()](https://healthy-degree-cc2.notion.site/setNeedsLayout-vs-layoutIfNeeded-3058cf8a4bce4effb941e1c618b54cb8?pvs=4)
 
 
 
