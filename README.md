@@ -46,6 +46,8 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
   - [Configuration 설정하기 + XCConfig](https://healthy-degree-cc2.notion.site/Configuration-XCConfig-fd2af0a010394f5db4d001fe7f972578?pvs=4)
   - [Scaffold를 통해 효율적으로 모듈 생성하기](https://healthy-degree-cc2.notion.site/Scaffold-Template-d8612c476d3743d9ad2d0f0468ad6654?pvs=4)
 
+- *Swinject*
+  - [Swinject](https://healthy-degree-cc2.notion.site/Swinject-35b260ab58be49cb8246e2abefcb56f4?pvs=4)
 
 
 ## **📱 SwiftUI**
