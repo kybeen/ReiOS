@@ -140,3 +140,4 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
 - [url의 String을 URL 객체로 변환 시 nil이 반환되는 문제](https://kybeen.tistory.com/141)
 - [OAuth에 대해 파이어베이스 소셜 로그인과 함께 알아보기](https://healthy-degree-cc2.notion.site/OAuth-f78314b4889e468f8d0a2f93f074bc8e?pvs=4)
 - [Nib & Xib 파일이 뭐지](https://healthy-degree-cc2.notion.site/Xib-Nib-9980b1f91f2143f2b5cae5337f375f8f?pvs=4)
+- [Xcode 프로젝트 이름 변경하기](https://healthy-degree-cc2.notion.site/Xcode-a01d69060b294c288c65f19fef8979b2?pvs=4)
