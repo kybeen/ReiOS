@@ -124,6 +124,7 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
 - [유닛 테스트(Unit Test)](https://healthy-degree-cc2.notion.site/Unit-Test-fdc8a6c3956243e09e15c3b10162b25f?pvs=4)
 - [UI 테스트(UI Test)](https://healthy-degree-cc2.notion.site/UI-UI-Test-fc5342c8ceb3451f9c0d719058834b21?pvs=4)
 - [외부 의존성의 응답을 테스트하기 (Core Location)](https://kybeen.tistory.com/146)
+- [Xcode 테스트를 최적화하기 위한 다양한 방법](https://healthy-degree-cc2.notion.site/Xcode-f7d4814fee414d1bb32b3c388fc6c59a?pvs=4)
 
 
 ## **🚀 Deploy**
