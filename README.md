@@ -77,7 +77,7 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
 - [Watch Connectivity](https://healthy-degree-cc2.notion.site/Watch-Connectivity-566f2eebe55f4b9e800c308b37c2bc1b?pvs=4), [Watch Connectivity 사용해보기](https://kybeen.tistory.com/138)
 - [Sign in with Apple (애플 로그인)](https://healthy-degree-cc2.notion.site/Sign-in-with-Apple-fadcba1053994303b68119d97c90c92a?pvs=4)
 - [KeyChain](https://healthy-degree-cc2.notion.site/KeyChain-a7774e3d25ab43438a1b395b18c1146b?pvs=4)
-- [Cache](https://www.notion.so/Cache-bf0e00b3256247ec9dda0b172f2d0f33?pvs=4)
+- [Cache](https://healthy-degree-cc2.notion.site/Cache-bf0e00b3256247ec9dda0b172f2d0f33?pvs=4)
 - [Core Location](https://healthy-degree-cc2.notion.site/Core-Location-7bb1d20fe30640e5903c0eb92c4ab63a?pvs=4), [Core Location 사용해보기](https://kybeen.tistory.com/145)
 - [(공식문서 번역) Notification 관련 액션 처리하기](https://healthy-degree-cc2.notion.site/Handling-notifications-and-notification-related-actions-350cb18a87a6461897c2aae95e1c124d?pvs=4)
 
