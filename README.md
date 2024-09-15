@@ -1,11 +1,40 @@
 # ReiOS
 Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
 
-## **🕊️ Swift**
-- [Swift 문법 공부](https://github.com/kybeen/Swift-Study)
-- [Swift에서의 SOLID 원칙](https://healthy-degree-cc2.notion.site/Swift-SOLID-625b287fa5484d26ade7d8d0ae0f278b?pvs=4)
-- [Swift에서의 Copy-on-Write](https://healthy-degree-cc2.notion.site/COW-Copy-on-Write-2e850f2ea6d94de388098bc0e637067e?pvs=4)
-- [CustomStringConvertible 프로토콜](https://kybeen.tistory.com/142)
+## **🕊️ Swift / Apple**
+- Swift
+  - [Swift 문법 공부](https://github.com/kybeen/Swift-Study)
+  - [Swift에서의 SOLID 원칙](https://healthy-degree-cc2.notion.site/Swift-SOLID-625b287fa5484d26ade7d8d0ae0f278b?pvs=4)
+  - [Swift에서의 Copy-on-Write](https://healthy-degree-cc2.notion.site/COW-Copy-on-Write-2e850f2ea6d94de388098bc0e637067e?pvs=4)
+  - [CustomStringConvertible 프로토콜](https://kybeen.tistory.com/142)
+
+- Apple API
+  - [Screen Time](https://healthy-degree-cc2.notion.site/Screen-Time-6fda458dbf0e43f5893afc9f1641844c?pvs=4)
+  - [Core Motion](https://healthy-degree-cc2.notion.site/Core-Motion-933ca69f50144643b172a7856ed23377?pvs=4), [Core Motion 사용해보기](https://kybeen.tistory.com/137)
+  - [Watch Connectivity](https://healthy-degree-cc2.notion.site/Watch-Connectivity-566f2eebe55f4b9e800c308b37c2bc1b?pvs=4), [Watch Connectivity 사용해보기](https://kybeen.tistory.com/138)
+  - [Sign in with Apple (애플 로그인)](https://healthy-degree-cc2.notion.site/Sign-in-with-Apple-fadcba1053994303b68119d97c90c92a?pvs=4)
+  - [KeyChain](https://healthy-degree-cc2.notion.site/KeyChain-a7774e3d25ab43438a1b395b18c1146b?pvs=4)
+  - [Cache](https://healthy-degree-cc2.notion.site/Cache-bf0e00b3256247ec9dda0b172f2d0f33?pvs=4)
+  - [Core Location](https://healthy-degree-cc2.notion.site/Core-Location-7bb1d20fe30640e5903c0eb92c4ab63a?pvs=4), [Core Location 사용해보기](https://kybeen.tistory.com/145)
+  - [(공식문서 번역) Notification 관련 액션 처리하기](https://healthy-degree-cc2.notion.site/Handling-notifications-and-notification-related-actions-350cb18a87a6461897c2aae95e1c124d?pvs=4)
+
+- SwiftUI
+  - [애플 공식 문서 SwiftUI Tutorial 따라해보기](https://healthy-degree-cc2.notion.site/SwiftUI-11b7c3d0be1b404db0a0ec83355d04f6?pvs=4)
+
+- UIKit
+  - [[꼼꼼한 재은씨의 Swift:기본편] 내용 정리](https://healthy-degree-cc2.notion.site/Swift-81576076c14140a0b26da19a420513b9?pvs=4)
+  - [커스텀 셀의 재사용 식별자 관리하기](https://healthy-degree-cc2.notion.site/f1f39382c4d74045aca3cfea8422beed?pvs=4)
+  - [Blur/점선 효과 넣어주기](https://healthy-degree-cc2.notion.site/Blur-aeb4d6f5fd374180908f94df6452eea2?pvs=4)
+  - [폰트가 적용된 SF Symbol 버튼 만들기](https://healthy-degree-cc2.notion.site/SF-Symbol-624e5f6cc86540a59c0a44619eed0e05?pvs=4)
+  - [키보드 올라가면 UI 요소도 같이 올려주기](https://healthy-degree-cc2.notion.site/UI-d5c9e719e61943d2a5172a93dc419018?pvs=4)
+  - [UITableViewCell 내부의 버튼에 이벤트 주기](https://healthy-degree-cc2.notion.site/UITableViewCell-1d4d9b3eabad4e518d45c7f530395a9d?pvs=4)
+  - [removeArrangedSubview() VS removeFromSuperview()](https://healthy-degree-cc2.notion.site/removeArrangedSubview-_-VS-removeFromSuperview-59d4e3ebd7cb47b69a22cc49788a76df?pvs=4)
+  - [Delegate를 사용하여 ViewController 간 데이터 전달하기](https://healthy-degree-cc2.notion.site/Delegate-VC2-VC1-4450359d5f59487a8d19f0fea6f9491b?pvs=4)
+  - [AppDelegate와 SceneDelegate](https://healthy-degree-cc2.notion.site/AppDelegate-SceneDelegate-087c92e2467e4849b68b17b07db62e9c?pvs=4)
+  - [UIKit에서의 view 라이프사이클](https://healthy-degree-cc2.notion.site/UIKit-view-c6d5ba011977412b959b83ce156a50b9?pvs=4)
+  - [setNeedsLayout() vs layoutIfNeeded()](https://healthy-degree-cc2.notion.site/setNeedsLayout-vs-layoutIfNeeded-3058cf8a4bce4effb941e1c618b54cb8?pvs=4)
+
+
 
 
 
@@ -51,37 +80,6 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
   - [Swinject](https://healthy-degree-cc2.notion.site/Swinject-35b260ab58be49cb8246e2abefcb56f4?pvs=4)
 
 
-## **📱 SwiftUI**
-- [애플 공식 문서 SwiftUI Tutorial 따라해보기](https://healthy-degree-cc2.notion.site/SwiftUI-11b7c3d0be1b404db0a0ec83355d04f6?pvs=4)
-
-
-
-## **📱 UIKit**
-- [[꼼꼼한 재은씨의 Swift:기본편] 내용 정리](https://healthy-degree-cc2.notion.site/Swift-81576076c14140a0b26da19a420513b9?pvs=4)
-- [커스텀 셀의 재사용 식별자 관리하기](https://healthy-degree-cc2.notion.site/f1f39382c4d74045aca3cfea8422beed?pvs=4)
-- [Blur/점선 효과 넣어주기](https://healthy-degree-cc2.notion.site/Blur-aeb4d6f5fd374180908f94df6452eea2?pvs=4)
-- [폰트가 적용된 SF Symbol 버튼 만들기](https://healthy-degree-cc2.notion.site/SF-Symbol-624e5f6cc86540a59c0a44619eed0e05?pvs=4)
-- [키보드 올라가면 UI 요소도 같이 올려주기](https://healthy-degree-cc2.notion.site/UI-d5c9e719e61943d2a5172a93dc419018?pvs=4)
-- [UITableViewCell 내부의 버튼에 이벤트 주기](https://healthy-degree-cc2.notion.site/UITableViewCell-1d4d9b3eabad4e518d45c7f530395a9d?pvs=4)
-- [removeArrangedSubview() VS removeFromSuperview()](https://healthy-degree-cc2.notion.site/removeArrangedSubview-_-VS-removeFromSuperview-59d4e3ebd7cb47b69a22cc49788a76df?pvs=4)
-- [Delegate를 사용하여 ViewController 간 데이터 전달하기](https://healthy-degree-cc2.notion.site/Delegate-VC2-VC1-4450359d5f59487a8d19f0fea6f9491b?pvs=4)
-- [AppDelegate와 SceneDelegate](https://healthy-degree-cc2.notion.site/AppDelegate-SceneDelegate-087c92e2467e4849b68b17b07db62e9c?pvs=4)
-- [UIKit에서의 view 라이프사이클](https://healthy-degree-cc2.notion.site/UIKit-view-c6d5ba011977412b959b83ce156a50b9?pvs=4)
-- [setNeedsLayout() vs layoutIfNeeded()](https://healthy-degree-cc2.notion.site/setNeedsLayout-vs-layoutIfNeeded-3058cf8a4bce4effb941e1c618b54cb8?pvs=4)
-
-
-
-## **🍏 Apple's**
-- [Screen Time](https://healthy-degree-cc2.notion.site/Screen-Time-6fda458dbf0e43f5893afc9f1641844c?pvs=4)
-- [Core Motion](https://healthy-degree-cc2.notion.site/Core-Motion-933ca69f50144643b172a7856ed23377?pvs=4), [Core Motion 사용해보기](https://kybeen.tistory.com/137)
-- [Watch Connectivity](https://healthy-degree-cc2.notion.site/Watch-Connectivity-566f2eebe55f4b9e800c308b37c2bc1b?pvs=4), [Watch Connectivity 사용해보기](https://kybeen.tistory.com/138)
-- [Sign in with Apple (애플 로그인)](https://healthy-degree-cc2.notion.site/Sign-in-with-Apple-fadcba1053994303b68119d97c90c92a?pvs=4)
-- [KeyChain](https://healthy-degree-cc2.notion.site/KeyChain-a7774e3d25ab43438a1b395b18c1146b?pvs=4)
-- [Cache](https://healthy-degree-cc2.notion.site/Cache-bf0e00b3256247ec9dda0b172f2d0f33?pvs=4)
-- [Core Location](https://healthy-degree-cc2.notion.site/Core-Location-7bb1d20fe30640e5903c0eb92c4ab63a?pvs=4), [Core Location 사용해보기](https://kybeen.tistory.com/145)
-- [(공식문서 번역) Notification 관련 액션 처리하기](https://healthy-degree-cc2.notion.site/Handling-notifications-and-notification-related-actions-350cb18a87a6461897c2aae95e1c124d?pvs=4)
-
-
 
 ## **🏁 동시성 프로그래밍**
 - [프로세스와 스레드](https://healthy-degree-cc2.notion.site/bd49077af4cc404f9063fa440bc4b0f3?pvs=4)
@@ -94,32 +92,6 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
 - [MainActor](https://www.notion.so/MainActor-7224cec9f30a43c09f4075950ea89e3b?pvs=4) -->
 
 
-
-## **📐 UI Library**
-- [(SnapKit) updateConstraints VS remakeConstraints 의 차이](https://healthy-degree-cc2.notion.site/SnapKit-updateConstraints-VS-remakeConstraints-d3c34fd990d144c2987983265f536e0a?pvs=4)
-
-
-
-## **🕯️ Firebase**
-- [Firebase Realtime Database 사용하기](https://healthy-degree-cc2.notion.site/Firebase-Realtime-Database-0ca34927133d4c279bee55cedb1c77d1?pvs=4)
-- [Firebase Storage 사용하기](https://healthy-degree-cc2.notion.site/Firebase-Storage-6201fbdcd47f4fa9830d7dfb105a0f81?pvs=4)
-- [Firebase로 Sign in with Apple 구현하기](https://healthy-degree-cc2.notion.site/Firebase-Sign-in-with-Apple-bae434f414ba40fe87b2890eca2c46dd?pvs=4)
-- [Firestore 사용해보기](https://healthy-degree-cc2.notion.site/FireStore-93b8a26d2fd8414ea59cc863fce64653?pvs=4)
-- [Firebase Cloud Messaging (FCM)](https://healthy-degree-cc2.notion.site/Firebase-Cloud-Messaging-FCM-didReceive-046504a06dc2417fa0ec73151a30154f?pvs=4)
-
-
-
-## **🍤 Reactive Programming**
-- [반응형 프로그래밍(Reactive Programming)](https://www.notion.so/Reactive-Programming-32676c8677fe4113b87256153f66e8e7?pvs=4)
-- [RxSwift란?](https://healthy-degree-cc2.notion.site/RxSwift-00ad411900024f6186e89ee9f9814097?pvs=4)
-- [Observable, Observer, Subscribe](https://healthy-degree-cc2.notion.site/Observable-Observer-Subscribe-64ef8b4f154c442a9c7d081f72bfbab2?pvs=4)
-- [Dispose, Disposable, DisposeBag](https://healthy-degree-cc2.notion.site/Dispose-Disposable-DisposeBag-e08d6265e8ac49a6a828b5a2b70ed429?pvs=4)
-- [Observable을 생성하는 operator들](https://healthy-degree-cc2.notion.site/Observable-16889156423d40f89245cf2447838f25?pvs=4)
-- [RxSwift + MVVM 패턴](https://healthy-degree-cc2.notion.site/RxSwift-MVVM-850975d00321473c8531ae84db1fe4d2?pvs=4)
-- [Combine 간단 정리 (RxSwift와 대응시켜보면서)](https://healthy-degree-cc2.notion.site/Combine-RxSwift-9bcb629aa6ec417ebebcc1ba12a585ad?pvs=4)
-- [디바운스(Debounce)와 쓰로틀링(Throttling)](https://healthy-degree-cc2.notion.site/Debounce-Throttling-1d7c30c550144313834229649769b566?pvs=4)
-
-
 ## **🧪 Testing**
 - [유닛 테스트(Unit Test)](https://healthy-degree-cc2.notion.site/Unit-Test-fdc8a6c3956243e09e15c3b10162b25f?pvs=4)
 - [UI 테스트(UI Test)](https://healthy-degree-cc2.notion.site/UI-UI-Test-fc5342c8ceb3451f9c0d719058834b21?pvs=4)
@@ -130,6 +102,31 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
 ## **🚀 Deploy**
 - [팀 작업 시에 Bundle Identifier 하나로 공유하기](https://kybeen.tistory.com/139)
 - [Family Controls 사용 앱 배포용 아카이브 시 주의사항](https://healthy-degree-cc2.notion.site/Family-Controls-914c5f4de3dd430ea64ed35ea5779685?pvs=4)
+
+
+
+
+## **📦 3rd Party**
+- SnapKit
+  - [updateConstraints VS remakeConstraints 의 차이](https://healthy-degree-cc2.notion.site/SnapKit-updateConstraints-VS-remakeConstraints-d3c34fd990d144c2987983265f536e0a?pvs=4)
+
+- Firebase
+  - [Firebase Realtime Database 사용하기](https://healthy-degree-cc2.notion.site/Firebase-Realtime-Database-0ca34927133d4c279bee55cedb1c77d1?pvs=4)
+  - [Firebase Storage 사용하기](https://healthy-degree-cc2.notion.site/Firebase-Storage-6201fbdcd47f4fa9830d7dfb105a0f81?pvs=4)
+  - [Firebase로 Sign in with Apple 구현하기](https://healthy-degree-cc2.notion.site/Firebase-Sign-in-with-Apple-bae434f414ba40fe87b2890eca2c46dd?pvs=4)
+  - [Firestore 사용해보기](https://healthy-degree-cc2.notion.site/FireStore-93b8a26d2fd8414ea59cc863fce64653?pvs=4)
+  - [Firebase Cloud Messaging (FCM)](https://healthy-degree-cc2.notion.site/Firebase-Cloud-Messaging-FCM-didReceive-046504a06dc2417fa0ec73151a30154f?pvs=4)
+
+- RxSwift
+  - [반응형 프로그래밍(Reactive Programming)](https://healthy-degree-cc2.notion.site/Reactive-Programming-32676c8677fe4113b87256153f66e8e7?pvs=4)
+  - [RxSwift란?](https://healthy-degree-cc2.notion.site/RxSwift-00ad411900024f6186e89ee9f9814097?pvs=4)
+  - [Observable, Observer, Subscribe](https://healthy-degree-cc2.notion.site/Observable-Observer-Subscribe-64ef8b4f154c442a9c7d081f72bfbab2?pvs=4)
+  - [Dispose, Disposable, DisposeBag](https://healthy-degree-cc2.notion.site/Dispose-Disposable-DisposeBag-e08d6265e8ac49a6a828b5a2b70ed429?pvs=4)
+  - [Observable을 생성하는 operator들](https://healthy-degree-cc2.notion.site/Observable-16889156423d40f89245cf2447838f25?pvs=4)
+  - [RxSwift + MVVM 패턴](https://healthy-degree-cc2.notion.site/RxSwift-MVVM-850975d00321473c8531ae84db1fe4d2?pvs=4)
+  - [Combine 간단 정리 (RxSwift와 대응시켜보면서)](https://healthy-degree-cc2.notion.site/Combine-RxSwift-9bcb629aa6ec417ebebcc1ba12a585ad?pvs=4)
+  - [디바운스(Debounce)와 쓰로틀링(Throttling)](https://healthy-degree-cc2.notion.site/Debounce-Throttling-1d7c30c550144313834229649769b566?pvs=4)
+
 
 
 ## **💬 ETC**
