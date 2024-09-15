@@ -34,6 +34,13 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
   - [UIKit에서의 view 라이프사이클](https://healthy-degree-cc2.notion.site/UIKit-view-c6d5ba011977412b959b83ce156a50b9?pvs=4)
   - [setNeedsLayout() vs layoutIfNeeded()](https://healthy-degree-cc2.notion.site/setNeedsLayout-vs-layoutIfNeeded-3058cf8a4bce4effb941e1c618b54cb8?pvs=4)
 
+- WWDC 영상 번역/정리
+  - [(WWDC19) Building Activity Classification Models in Create ML](https://healthy-degree-cc2.notion.site/WWDC19-Building-Activity-Classification-Models-in-Create-ML-3a75399dc5e2482c88391398ec98ddf7?pvs=4)
+  - [(WWDC21) Meet the Screen Time API](https://healthy-degree-cc2.notion.site/WWDC21-Meet-the-Screen-Time-API-1785e1b288ad432eb5cadbfe55e38e35?pvs=4)
+  - [(WWDC22) What’s new in Screen Time API](https://healthy-degree-cc2.notion.site/WWDC22-What-s-new-in-Screen-Time-API-c85d4fa88d4e47a38b30cdeae39358cd?pvs=4)
+  - [(WWDC23) What’s new in Core Motion](https://healthy-degree-cc2.notion.site/WWDC23-What-s-new-in-Core-Motion-82929d4239b14e828d1d368758d791f6?pvs=4)
+  - [(WWDC19) Introducing Sign In with Apple](https://healthy-degree-cc2.notion.site/WWDC19-Introducing-Sign-In-with-Apple-7747a7614fb840c5984565fd2614e6c8?pvs=4)
+  - [(WWDC22) Swift 제네릭 활용](https://healthy-degree-cc2.notion.site/WWDC22-Swift-65f2008981a743db8e95e60a700cef16?pvs=4)
 
 
 
