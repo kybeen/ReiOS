@@ -39,7 +39,7 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
   - [(WWDC23) What’s new in Core Motion](https://healthy-degree-cc2.notion.site/WWDC23-What-s-new-in-Core-Motion-82929d4239b14e828d1d368758d791f6?pvs=4)
   - [(WWDC19) Introducing Sign In with Apple](https://healthy-degree-cc2.notion.site/WWDC19-Introducing-Sign-In-with-Apple-7747a7614fb840c5984565fd2614e6c8?pvs=4)
   - [(WWDC22) Swift 제네릭 활용](https://healthy-degree-cc2.notion.site/WWDC22-Swift-65f2008981a743db8e95e60a700cef16?pvs=4)
-
+  - [(WWDC19) Architecting Your App for Multiple Windows](https://healthy-degree-cc2.notion.site/WWDC19-Architecting-Your-App-for-Multiple-Windows-104b5eb4bc1a802d8187ed8ab1da9926?pvs=4)
 
 
 
