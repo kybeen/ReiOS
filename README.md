@@ -41,6 +41,7 @@ Swift나 iOS 개발 관련 공부를 하며 정리한 내용들
   - [(WWDC22) Swift 제네릭 활용](https://healthy-degree-cc2.notion.site/WWDC22-Swift-65f2008981a743db8e95e60a700cef16?pvs=4)
   - [(WWDC19) Architecting Your App for Multiple Windows](https://healthy-degree-cc2.notion.site/WWDC19-Architecting-Your-App-for-Multiple-Windows-104b5eb4bc1a802d8187ed8ab1da9926?pvs=4)
   - [(WWDC22) UIKit과 SwiftUI 사용](https://healthy-degree-cc2.notion.site/WWDC22-UIKit-SwiftUI-118b5eb4bc1a804eb46dea3c28a625b0?pvs=4)
+  - [(WWDC21) Use async/await with URLSession](https://healthy-degree-cc2.notion.site/WWDC21-Use-async-await-with-URLSession-10bb5eb4bc1a80b8bd8dfa43f1437cd6?pvs=4)
 
 
 
